@@ -1,5 +1,5 @@
 /** enter owner number */
-global.owner = ['6281252848955']
+global.owner = ['628981574999']
 
 /** Apikey https://api.alyachan.pro/pricing */
 global.APIs = {
@@ -11,13 +11,13 @@ global.APIKeys = {
 
 /** option setting */
 global.set = {
-  wm: `© moon-bot v${require('./package.json').version}`,
-  footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
+  wm: ` BotShin v5.0.0 - @mosymoshy`,
+  footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❤️',
   packname: 'Sticker By',
-  author: 'moon-bot'
+  author: 'BotShin - @mosymoshy'
 }
 /** enter your bot number to login using the code */
-global.pairingNumber = 6283867587556
+global.pairingNumber = 6289699005480
 
 /** enter your replit link, so it's active 24/7 */
 global.replit_url = ''
