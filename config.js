@@ -6,18 +6,18 @@ global.APIs = {
   alya: 'https://api.alyachan.pro'
 }
 global.APIKeys = {
-  'https://api.alyachan.pro': 'Yourkey'
+  'https://api.alyachan.pro': 'LzgzKt'
 }
 
 /** option setting */
 global.set = {
-  wm: ` BotShin v5.0.0 - @mosymoshy`,
+  wm: ` BotRoom v5.0.0 - @mosymoshy`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❤️',
   packname: 'Sticker By',
-  author: 'BotShin - @mosymoshy'
+  author: 'BotRoom - @mosymoshy'
 }
 /** enter your bot number to login using the code */
-global.pairingNumber = 6289699005480
+global.pairingNumber = 6283830718131
 
 /** enter your replit link, so it's active 24/7 */
 global.replit_url = ''
